@@ -1,4 +1,4 @@
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="25px" height="25px"/> Todo List Service - GDGoC
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="25px" height="25px"/> Todo List Service Golang - GDGoC
 
 Todo List Service adalah layanan backend sederhana untuk mengelola daftar tugas (To-Do List). Layanan ini dikembangkan menggunakan Golang dengan Gin framework.
 
@@ -21,8 +21,8 @@ Todo List Service adalah layanan backend sederhana untuk mengelola daftar tugas 
 ### 1. Clone Repository
 
 ```sh
-git clone https://github.com/kennethwn/todo-list-service-gdgoc.git
-cd todo-list-service-gdgoc
+git clone https://github.com/Froxayn123/todo-list-golang.git
+cd todo-list-golang
 ```
 
 ### 2. Install Dependencies
